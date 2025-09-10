@@ -1,6 +1,6 @@
 # TP1 Professional Full Stack 
  
-Consiste en la creación de una página web básica con estructura semántica en **HTML** y estilos en **CSS**, aplicando buenas prácticas y variables de estilo como fue solicitado.  
+Consiste en la creación de una página web básica con estructura semántica en **HTML** y estilos en **CSS** + **JS** básico, aplicando buenas prácticas y variables de estilo como fue solicitado.  
 
 ---
 
@@ -36,3 +36,4 @@ Curso: Professional Full Stack Developer - UTN
 Unidad: Módulo 1 - Unidad 1 (Antes de React)
 
 Repositorio: Tp1ProfessionalFullStackDev
+
