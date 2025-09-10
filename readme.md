@@ -23,6 +23,7 @@ La página incluye:
 
 2. Acceder a la carpeta del proyecto
 
+    ```bash
     cd Tp1ProfessionalFullStackDev
 
 3. Abrir el archivo index.html en el nav
@@ -36,4 +37,5 @@ Curso: Professional Full Stack Developer - UTN
 Unidad: Módulo 1 - Unidad 1 (Antes de React)
 
 Repositorio: Tp1ProfessionalFullStackDev
+
 
